@@ -1,0 +1,15 @@
+Investiga acerca del manejo de memoria en assembler.
+En lenguaje ensamblador podemos direccionar datos directamente a los registros del procesador, la memoria se gestiona mediante medotos de direccionamiento, los cuales son:
+-Modo Implicito
+-Modo Inmediato
+-Modo de Registro
+-Modo Indirecto por Registro
+-Modo de Direccionamiento Directo
+-Modo de Direccionamiento Indirecto
+-Modo de Direccionamiento Indexado
+-Modo de Direccionamiento de Registro Base
+
+
+Investiga acerca de los depuradores. Que hace el comando gdb.
+Es una herramienta que permite entre otras cosas, correr el programa con la posibilidad de detenerlo cuando se cumple cierta condición,
+avanzar paso a paso, analizar que ha pasado cuando un programa se detiene o cambiar algunas cosas del programa como el valor de las variables.
